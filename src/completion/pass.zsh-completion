@@ -97,7 +97,7 @@ _pass () {
 			"grep:Search inside decrypted password files for matching pattern"
 			"show:Decrypt and print a password"
 			"insert:Insert a new password"
-			"generate:Generate a new password using pwgen"
+			"generate:Generate a new password using apg"
 			"edit:Edit a password with \$EDITOR"
 			"mv:Rename the password"
 			"cp:Copy the password"
